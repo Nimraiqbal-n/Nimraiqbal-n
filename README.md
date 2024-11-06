@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nimraiqbal-n
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React,AI,Deep learning
-- 💞️ I’m looking to collaborate to projects
 - 📫 How to reach me email: nimraaaiqbal@gmail.com
-- 😄 Pronouns: she/her
+- I’m looking to collaborate to projects.
+- Pronouns: she/her
 
 
 <!---
